@@ -32,7 +32,7 @@ body {
 }
 
 .image-area {
-  background-image:url('Screenshot_1.jpg');
+  background-image:url('photo_n00048_s1 500 [CUDA=medium] 1920x1080.png');
   background-color: black;
   background-position: center center;
   background-size: cover;
@@ -75,7 +75,7 @@ body {
   padding: 0px 16px;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1025px) {
   .nav ul {
     text-align: right;
   }
