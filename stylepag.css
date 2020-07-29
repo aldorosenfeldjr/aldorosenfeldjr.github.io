@@ -75,7 +75,7 @@ body {
   padding: 0px 16px;
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 1025px) {
   .nav ul {
     text-align: right;
   }
