@@ -69,11 +69,16 @@ body {
 .single-service img {
   width: 70%;
   height: auto;
-  max-height: 420px;
 }
 
 .single-service p {
   padding: 0px 16px;
+}
+
+.bottom {
+  font-size: 0.7rem;
+  text-align: center;
+  padding-bottom: 2px;
 }
 
 @media only screen and (min-width: 1025px) {
@@ -92,10 +97,4 @@ body {
     width: 50%;
     float: left;
   }
-}
-
-.bottom {
-  font-size: 0.7rem;
-  text-align: center;
-  padding-bottom: 2px;
 }
